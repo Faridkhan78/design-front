@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btn1 {
+  background-color: #0066FF;
+  border-radius: 10px;
+  color: white;
+
+}
+
+.btn1:hover {
+  background-color: #FCFDFE;
+  color: blue;
+
+}
+
+#r1 {
+  background-color: #FCFDFE;
+}
+
+#heading {
+  color: #64748B;
+}
+
+#c1 {
+  background-color: #EABBE2;
+  padding-bottom: 30px;
+}
+
+#b1:hover {
+  background-color: white;
+  color: blue;
+}
+
+#c2 {
+  text-align: center;
+}
+
+#card1 {
+  border-radius: 25px;
+}
+
+#card2 {
+  background-color: #EFF2F7;
+  margin-bottom: 10px;
+}
+
+#btn1 {
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 30px;
+}
+
+#btn1:hover {
+  background-color: white;
+  color: blue;
+}
+
+#img2 {
+  height: 50%;
+  width: 50%;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+
+.btn {
+  border-radius: 20px;
+}
+
+#card3 {
+  background-color: #BDD3F4;
+}
+
+#card5 {
+  height: 620px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+#bd1:hover {
+  background-color: #E3F1E2;
+}
+
+#cart1:hover {
+  background-color: #E3F1E2;
+}
+
+.hed6 {
+  color: white;
+  size: 20px;
+}
+
+#e1:hover {
+  background-color: white;
+  color: blue;
+
+}
+
+#image2 {
+
+  background-color: #313b56;
+  width: 100%;
+  position: relative;
+}
+
+.card-img-top {
+  width: 10rem;
+  margin-bottom: 20px;
+
+}
+
+#b3:hover {
+  background-color: white;
+  color: blue;
+}
+
+#c3 {
+  background-color: #F5F8FB;
+}
+
+#c5 {
+  background-image: url(img/tile.svg);
+  background-color: #313b56;
+}
+
+#first {
+  height: 70%;
+  width: 130%;
+  box-sizing: content-box;
+
+}
+
+.bt3 {
+  background-color: #13274E;
+  color: white;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.bt3:hover {
+  background-color: blue;
+  color: white;
+  border-radius: 2px solid blue;
+}
+
+#boxes {
+  width: 10rem;
+  background-color: black;
+  border-radius: 10px;
+}
+
+#f1 {
+  color: white;
+  font-size: 13px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#hr1 {
+  color: blue;
+  height: 3px;
+  border-width: 0;
+  background-color: blue;
+
+}
